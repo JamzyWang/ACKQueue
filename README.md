@@ -1,5 +1,7 @@
 # ACKQueue
 
+---
+
 ACKQueue is a redis-based message queue. It's used as a simple distributed message queue in our duplicate image check project. This repository is the basic version of ACKQueue.
 
 ## Roles
